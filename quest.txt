@@ -1,0 +1,8 @@
+# Format:
+# q<số>:"Câu hỏi" "Đáp án A" "Đáp án B" "Đáp án C" "Đáp án D" "Số tiền"
+# Có thể thêm "A"/"B"/"C"/"D" ở cuối để chỉ đáp án đúng.
+# Nếu không thêm, mặc định A là đáp án đúng.
+
+q1:"Thủ đô của Việt Nam là gì?" "Hà Nội" "Huế" "Đà Nẵng" "Hải Phòng" "1.000" "A"
+q2:"2 + 2 bằng bao nhiêu?" "3" "4" "5" "6" "2.000" "B"
+q3:"Hành tinh nào gần Mặt Trời nhất?" "Sao Kim" "Trái Đất" "Sao Thủy" "Sao Hỏa" "4.000" "C"
